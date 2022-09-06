@@ -104,3 +104,4 @@ function create_branch(){
 source scripts/release/${1}.sh
 
 create_branch $BASE_VERSION ${1} BRANCHES[@] $TYPE
+ 
