@@ -1,0 +1,20 @@
+{
+  "name": "git-pratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "merge-release": "bash ./scripts/create-branch.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luca-Lin/git-pratice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luca-Lin/git-pratice/issues"
+  },
+  "homepage": "https://github.com/Luca-Lin/git-pratice#readme"
+}
